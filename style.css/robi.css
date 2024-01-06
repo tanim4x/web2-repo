@@ -1,0 +1,38 @@
+body{
+ font-family: 'Open Sans', sans-serif;
+ margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px ;
+.
+}
+.text-white{
+    color: white;
+}
+section{
+    display: flex;
+    padding: 5%;
+}
+.half-weidth{
+    width: 50%;
+}
+img{
+    width: 80%;
+    border-radius: 50%;
+}
+.link{
+    text-decoration: none;
+    padding: 10px 50px;
+    background-image:linear-gradient(blue,blueviolet);
+    border-radius: 10px;
+    color: white;
+    font-weight: 700px;
+}
+.top-banner{
+    background-image: url(../images/wave.svg);
+    background-repeat: no-repeat;
+ 
+}
